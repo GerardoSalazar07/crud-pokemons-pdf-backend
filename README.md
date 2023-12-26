@@ -17,7 +17,7 @@ Sigue estos pasos para instalar y configurar el proyecto en tu máquina local:
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/tu-proyecto.git
+   git clone https://github.com/GerardoSalazar07/crud-pokemons-pdf-backend.git
 2. **Accede al directorio del proyecto:**
    ```bash
    cd api
